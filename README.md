@@ -1,0 +1,1 @@
+# Ethic in NLP in SommerSemester 2022 TUDA
